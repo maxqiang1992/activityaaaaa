@@ -40,10 +40,10 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-    //必须使用
-    compile 'com.lzy.net:okgo:3.0.4'
-
-//以下三个选择添加，okrx和okrx2不能同时使用
-    compile 'com.lzy.net:okrx:1.0.2'
-    implementation 'com.lxj:xpopup:2.2.4'
+//    //必须使用
+//    compile 'com.lzy.net:okgo:3.0.4'
+//
+////以下三个选择添加，okrx和okrx2不能同时使用
+//    compile 'com.lzy.net:okrx:1.0.2'
+//    implementation 'com.lxj:xpopup:2.2.4'
 }

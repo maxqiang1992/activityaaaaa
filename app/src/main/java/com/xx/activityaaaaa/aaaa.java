@@ -1,7 +1,11 @@
 package com.xx.activityaaaaa;
 
+import androidx.core.app.ComponentActivity;
+
 import com.ap.ezviz.pub.utils.IsapiSearchHelper;
 import com.ap.ezviz.pub.utils.XmlUtils;
+import com.wj.camera.WJCamera;
+import com.wj.uikit.WJCaptureActivity;
 
 /**
  * FileName: aaaa
