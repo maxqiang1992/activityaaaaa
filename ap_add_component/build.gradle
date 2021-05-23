@@ -3,6 +3,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
+apply plugin: 'com.github.dcendents.android-maven'
+group = 'com.github.maxqiang1992'
 
 android {
     compileSdkVersion 28
@@ -47,18 +49,4 @@ repositories {
     mavenCentral()
 }
 
-apply plugin: 'maven'
-uploadArchives {
-    repositories {
-        mavenDeployer {
 
-            pom.groupId = "com.xx.wjhl"
-            pom.artifactId = "config"
-            pom.version = "1.0.0"
-            def mavenDirPath = file('F:\\mavendir') // 本地存放目录(自行选择)，可放在gradle.properties文件中引用
-            repository(url: "file://${mavenDirPath.absolutePath}")
-
-
-        }
-    }
-}
