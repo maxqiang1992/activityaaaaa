@@ -45,8 +45,6 @@ dependencies {
     implementation 'io.reactivex:rxandroid:1.2.1'
     implementation files('libs\\union-cc-lib-v0.2.jar')
 }
-repositories {
-    mavenCentral()
-}
+
 
 
