@@ -35,11 +35,11 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.6'
     implementation project(path: ':ap_add_component')
     implementation project(path: ':wjcamera_library')
-    //implementation project(path: ':ap_add_component')
+    implementation project(path: ':ap_add_component')
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-    //api project(path: ':wjcamera_library')
+    api project(path: ':wjcamera_library')
  /*   api 'com.journeyapps:zxing-android-embedded:4.1.0'*/
     api('com.journeyapps:zxing-android-embedded:4.2.0') { transitive = false }
     implementation 'androidx.appcompat:appcompat:1.0.2'
