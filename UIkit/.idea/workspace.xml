@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e78f7ae-0fad-4775-ae56-65e59b507302" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/fragment/Live_StudioFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/popupwindows/PopupSelectDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/fragment_live_studio.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/layout/popup_select_device_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../app/src/main/res/mipmap-xhdpi/preview_video.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/BaseUikitActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/BaseUikitActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJCaptureActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJCaptureActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJDeviceDebugActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJDeviceDebugActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJDeviceManageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJDeviceManageActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJDeviceSelectActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/device/DeviceSelectActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJSettingWifiActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/WJSettingWifiActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/BaseRecyclerViewAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/BaseRecyclerViewAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/DeviceManageAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/WJDeviceManageAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/DeviceSelectAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/WifiListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/adapter/WifiListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/control/DeviceDebugControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/control/DeviceDebugControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/control/DeviceFullControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/control/DeviceFullControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/db/DBHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/db/DBHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/wj/uikit/db/DeviceInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wj/uikit/db/DeviceInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/wj_activity_device_debug.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/wj_activity_device_debug.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/wj_activity_device_manage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/wj_activity_device_manage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/wj_activity_device_select.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/wj_activity_device_select.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/wj_activity_zxing_capture_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/wj_activity_zxing_capture_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/wj_birate_select_pop.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/wj_birate_select_pop.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/wj_uikit_deviceselect_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/layout/wj_uikit_deviceselect_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/AddEditClassActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/AddEditClassActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/ClassDetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/ClassDetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/LiveCourseInteractActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/LiveCourseInteractActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/SetActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/activity/SetActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/entity/ClassDetailToEditEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/entity/ClassDetailToEditEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/ijkplayer/control/ThVideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/ijkplayer/control/ThVideoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/myapplication/MyApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/java/com/kzkt/jsb/myapplication/MyApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_addeditclass.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_addeditclass.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app/src/main/res/layout/activity_live_course_interact.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app/src/main/res/layout/activity_live_course_interact.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/net/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/net/Api.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/net/DeviceApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/net/DeviceApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/net/ISAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/net/ISAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/request/XML.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/request/XML.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/WJPlayView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/WJPlayView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/WJSurfaceView.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/WJSurfaceView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/control/LoadingControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/control/LoadingControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/control/WJPlayControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../wjcamera_library/src/main/java/com/wj/camera/view/control/WJPlayControl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1puURV1urzdA0UnM8K6fKvX2Xzv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e78f7ae-0fad-4775-ae56-65e59b507302" name="Default Changelist" comment="" />
+      <created>1616032460489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616032460489</updated>
+    </task>
+    <servers />
+  </component>
+</project>
