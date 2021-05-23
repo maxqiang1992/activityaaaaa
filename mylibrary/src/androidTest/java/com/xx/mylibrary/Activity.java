@@ -2,6 +2,9 @@ package com.xx.mylibrary;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.wj.camera.WJCamera;
+import com.wj.uikit.WJSettingWifiActivity;
+
 /**
  * FileName: Activity
  * Author: xiongxiang
