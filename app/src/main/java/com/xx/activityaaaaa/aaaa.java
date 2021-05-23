@@ -7,6 +7,8 @@ import com.ap.ezviz.pub.utils.XmlUtils;
 import com.wj.camera.WJCamera;
 import com.wj.uikit.WJCaptureActivity;
 
+import org.greenrobot.eventbus.EventBus;
+
 /**
  * FileName: aaaa
  * Author: xiongxiang
@@ -17,6 +19,5 @@ import com.wj.uikit.WJCaptureActivity;
  * 作者姓名 修改时间 版本号 描述
  */
 class aaaa {
-
 }
 
