@@ -110,3 +110,8 @@ public static ** valueOf(java.lang.String);
 #对含有反射类的处理
 -keep class com.wj.camera.response.** { *; }
 #
+
+-dontwarn com.wj.camera.**
+#对含有反射类的处理
+-keep class  com.wj.camera.** { *; }
+#
