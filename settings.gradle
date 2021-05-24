@@ -1,6 +1,5 @@
 include ':ap_add_component'
 include ':wjcamera_library'
 include ':UIkit'
-include ':mylibrary'
 include ':app'
 rootProject.name = "activityaaaaa"

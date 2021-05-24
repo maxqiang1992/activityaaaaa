@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -14,7 +15,6 @@
             <option value="$PROJECT_DIR$/UIkit" />
             <option value="$PROJECT_DIR$/ap_add_component" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/mylibrary" />
             <option value="$PROJECT_DIR$/wjcamera_library" />
           </set>
         </option>
