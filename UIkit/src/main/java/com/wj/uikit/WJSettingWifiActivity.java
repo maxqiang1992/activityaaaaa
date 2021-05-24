@@ -138,7 +138,7 @@ public class WJSettingWifiActivity extends BaseUikitActivity implements OnItemCl
             public void onClick(View v) {
 
 //                startActivityForResult(new Intent(Settings.Panel.ACTION_INTERNET_CONNECTIVITY),200);
-
+                startActivity(new Intent(android.provider.Settings.ACTION_WIFI_SETTINGS));
             }
         });
     }

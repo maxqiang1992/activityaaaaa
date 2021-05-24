@@ -210,6 +210,7 @@ public class WJSettingWiredActivity extends BaseUikitActivity {
             startwired(mApWiredConfigInfo);
         } else {
 //            startActivityForResult(new Intent(Settings.Panel.ACTION_INTERNET_CONNECTIVITY), 200);
+            startActivity(new Intent(android.provider.Settings.ACTION_WIFI_SETTINGS));
         }
     }
 
